@@ -1,0 +1,26 @@
+﻿infile='guitar.wav';
+
+[x,Fs] = audioread(infile);
+
+max_time_delay=0.003; % 3 ms de atraso maximo
+rate=1; %variação do efeito em Hz
+
+index=1:length(x);
+
+% referencia para criar o efeito de oscilação do delay
+sin_ref = (sin(2*pi*index*(rate/Fs)))';
+
+max_samp_delay=round(max_time_delay*Fs); %converter o tempo maximo de delay de ms para amostras
+
+y = zeros(length(x),1);
+
+y(1:max_samp_delay)=x(1:max_samp_delay);
+
+amp=0.7;
+
+% for each sample
+for i = (max_samp_delay+1):length(x)
+    cur_sin=abs(sin_ref(i));
+    cur_delay=ceil(cur_sin*max_samp_delay); 
+    y(i) = (amp*x(i)) + amp*(x(i-cur_delay));
+end

@@ -1,0 +1,15 @@
+/Users/pedrocavaleiro/Projects/NoobAudio/DebugFX/bin/Debug/DebugFX.exe
+/Users/pedrocavaleiro/Projects/NoobAudio/DebugFX/bin/Debug/DebugFX.pdb
+/Users/pedrocavaleiro/Projects/NoobAudio/DebugFX/bin/Debug/NoobAudioLib.dll
+/Users/pedrocavaleiro/Projects/NoobAudio/DebugFX/bin/Debug/NoobAudioLib.pdb
+/Users/pedrocavaleiro/Projects/NoobAudio/DebugFX/obj/Debug/DebugFX.csprojResolveAssemblyReference.cache
+/Users/pedrocavaleiro/Projects/NoobAudio/DebugFX/obj/Debug/DebugFX.csproj.CoreCompileInputs.cache
+/Users/pedrocavaleiro/Projects/NoobAudio/DebugFX/obj/Debug/DebugFX.exe
+/Users/pedrocavaleiro/Projects/NoobAudio/DebugFX/obj/Debug/DebugFX.pdb
+C:\Users\pmcav\Desktop\NoobAudio\NoobAudio\DebugFX\bin\Debug\DebugFX.exe
+C:\Users\pmcav\Desktop\NoobAudio\NoobAudio\DebugFX\bin\Debug\DebugFX.pdb
+C:\Users\pmcav\Desktop\NoobAudio\NoobAudio\DebugFX\bin\Debug\NoobAudioLib.dll
+C:\Users\pmcav\Desktop\NoobAudio\NoobAudio\DebugFX\bin\Debug\NoobAudioLib.pdb
+C:\Users\pmcav\Desktop\NoobAudio\NoobAudio\DebugFX\obj\Debug\DebugFX.csprojResolveAssemblyReference.cache
+C:\Users\pmcav\Desktop\NoobAudio\NoobAudio\DebugFX\obj\Debug\DebugFX.exe
+C:\Users\pmcav\Desktop\NoobAudio\NoobAudio\DebugFX\obj\Debug\DebugFX.pdb

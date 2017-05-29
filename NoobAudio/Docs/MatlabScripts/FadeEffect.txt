@@ -1,0 +1,18 @@
+﻿Foi desenvolvido on seguinte script de MatLab para efetuar a conversão para C#
+
+TA = 1000; % taxa de amostragem
+FADE = 5; % fade de 5 segundos
+
+sinal = randn(15.*Fs,1); % gerar 15 segundos de sinal
+
+n_amostras = round(FADE.*TA); % calcular o numero de amostras a modificar
+escala = linspace(0,1,n_amostras)'; % cria uma escala que incrementa o valor para criar o fade
+
+sinal_final = sinal;
+sinal_final(1:n_amostras) = sig(1:n_amostras).*escala; % aplicar o fade
+
+%plots para verificar se o script funcionava antes de iniciar a conversão para C#
+%subplot(211)
+%plot(sig)
+%subplot(212)
+%plot(sig_faded)

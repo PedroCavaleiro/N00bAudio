@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{A5F0A810-BB2B-4732-8FA9-CD99386A53EC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NoobAudio/FX/Delay.cs">
+    <Files>
+      <File FileName="NoobAudio/FX/Delay.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.NoobAudio__Windows PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,40 @@
+c:/users/pmcav/documents/visual studio 2017/Projects/NoobAudio/NoobAudio/obj/Debug/NoobAudio.csprojResolveAssemblyReference.cache
+c:/users/pmcav/documents/visual studio 2017/Projects/NoobAudio/NoobAudio/bin/Debug/NoobAudio.dll
+c:/users/pmcav/documents/visual studio 2017/Projects/NoobAudio/NoobAudio/bin/Debug/NoobAudio.pdb
+c:/users/pmcav/documents/visual studio 2017/Projects/NoobAudio/NoobAudio/obj/Debug/NoobAudio.dll
+c:/users/pmcav/documents/visual studio 2017/Projects/NoobAudio/NoobAudio/obj/Debug/NoobAudio.pdb
+F:/NoobAudio/NoobAudio/obj/Debug/NoobAudio.csprojResolveAssemblyReference.cache
+I:/NoobAudio/NoobAudio/bin/Debug/NoobAudioLib.dll
+I:/NoobAudio/NoobAudio/bin/Debug/NoobAudioLib.pdb
+I:/NoobAudio/NoobAudio/obj/Debug/NoobAudioLib.dll
+I:/NoobAudio/NoobAudio/obj/Debug/NoobAudioLib.pdb
+I:/NoobAudio/NoobAudio/obj/Debug/NoobAudio.csprojResolveAssemblyReference.cache
+F:/NoobAudio/NoobAudio/bin/Debug/NoobAudioLib.dll
+F:/NoobAudio/NoobAudio/bin/Debug/NoobAudioLib.pdb
+F:/NoobAudio/NoobAudio/obj/Debug/NoobAudioLib.dll
+F:/NoobAudio/NoobAudio/obj/Debug/NoobAudioLib.pdb
+C:/Users/andre/Source/Repos/TM Project/NoobAudio/bin/Debug/NoobAudioLib.dll
+C:/Users/andre/Source/Repos/TM Project/NoobAudio/bin/Debug/NoobAudioLib.pdb
+C:/Users/andre/Source/Repos/TM Project/NoobAudio/obj/Debug/NoobAudio.csprojResolveAssemblyReference.cache
+C:/Users/andre/Source/Repos/TM Project/NoobAudio/obj/Debug/NoobAudioLib.dll
+C:/Users/andre/Source/Repos/TM Project/NoobAudio/obj/Debug/NoobAudioLib.pdb
+/Users/pedrocavaleiro/Projects/NoobAudio/NoobAudio/bin/Debug/NoobAudioLib.dll
+/Users/pedrocavaleiro/Projects/NoobAudio/NoobAudio/bin/Debug/NoobAudioLib.pdb
+/Users/pedrocavaleiro/Projects/NoobAudio/NoobAudio/obj/Debug/NoobAudio.csproj.CoreCompileInputs.cache
+/Users/pedrocavaleiro/Projects/NoobAudio/NoobAudio/obj/Debug/NoobAudioLib.dll
+/Users/pedrocavaleiro/Projects/NoobAudio/NoobAudio/obj/Debug/NoobAudioLib.pdb
+/Users/pedrocavaleiro/Projects/NoobAudio/NoobAudio/obj/Debug/NoobAudio.csprojResolveAssemblyReference.cache
+/Users/pedrocavaleiro/Projects/NoobAudio/NoobAudio/bin/Debug/MathNet.Numerics.dll
+/Users/pedrocavaleiro/Projects/NoobAudio/NoobAudio/bin/Debug/MathNet.Numerics.xml
+C:\Users\pmcav\Source\Repos\TM Project\NoobAudio\bin\Debug\NoobAudioLib.dll
+C:\Users\pmcav\Source\Repos\TM Project\NoobAudio\bin\Debug\NoobAudioLib.pdb
+C:\Users\pmcav\Source\Repos\TM Project\NoobAudio\bin\Debug\MathNet.Numerics.dll
+C:\Users\pmcav\Source\Repos\TM Project\NoobAudio\bin\Debug\MathNet.Numerics.xml
+C:\Users\pmcav\Source\Repos\TM Project\NoobAudio\obj\Debug\NoobAudioLib.dll
+C:\Users\pmcav\Source\Repos\TM Project\NoobAudio\obj\Debug\NoobAudioLib.pdb
+C:\Users\pmcav\Desktop\NoobAudio\NoobAudio\NoobAudio\bin\Debug\NoobAudioLib.dll
+C:\Users\pmcav\Desktop\NoobAudio\NoobAudio\NoobAudio\bin\Debug\NoobAudioLib.pdb
+C:\Users\pmcav\Desktop\NoobAudio\NoobAudio\NoobAudio\bin\Debug\MathNet.Numerics.dll
+C:\Users\pmcav\Desktop\NoobAudio\NoobAudio\NoobAudio\bin\Debug\MathNet.Numerics.xml
+C:\Users\pmcav\Desktop\NoobAudio\NoobAudio\NoobAudio\obj\Debug\NoobAudioLib.dll
+C:\Users\pmcav\Desktop\NoobAudio\NoobAudio\NoobAudio\obj\Debug\NoobAudioLib.pdb

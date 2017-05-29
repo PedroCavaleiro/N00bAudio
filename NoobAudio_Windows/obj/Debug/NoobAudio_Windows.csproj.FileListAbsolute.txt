@@ -1,0 +1,50 @@
+C:\Users\pmcav\Source\Repos\TM Project\NoobAudio_Windows\bin\Debug\NoobAudio_Windows.exe.config
+C:\Users\pmcav\Source\Repos\TM Project\NoobAudio_Windows\bin\Debug\NoobAudio_Windows.exe
+C:\Users\pmcav\Source\Repos\TM Project\NoobAudio_Windows\bin\Debug\NoobAudio_Windows.pdb
+C:\Users\pmcav\Source\Repos\TM Project\NoobAudio_Windows\bin\Debug\MathNet.Numerics.dll
+C:\Users\pmcav\Source\Repos\TM Project\NoobAudio_Windows\bin\Debug\NoobAudioLib.dll
+C:\Users\pmcav\Source\Repos\TM Project\NoobAudio_Windows\bin\Debug\NoobAudioLib.pdb
+C:\Users\pmcav\Source\Repos\TM Project\NoobAudio_Windows\bin\Debug\MathNet.Numerics.xml
+C:\Users\pmcav\Source\Repos\TM Project\NoobAudio_Windows\obj\Debug\NoobAudio_Windows.csprojResolveAssemblyReference.cache
+C:\Users\pmcav\Source\Repos\TM Project\NoobAudio_Windows\obj\Debug\NoobAudio_Windows.About.resources
+C:\Users\pmcav\Source\Repos\TM Project\NoobAudio_Windows\obj\Debug\NoobAudio_Windows.Docs.resources
+C:\Users\pmcav\Source\Repos\TM Project\NoobAudio_Windows\obj\Debug\NoobAudio_Windows.editedFFTGraph.resources
+C:\Users\pmcav\Source\Repos\TM Project\NoobAudio_Windows\obj\Debug\NoobAudio_Windows.FileDetails.resources
+C:\Users\pmcav\Source\Repos\TM Project\NoobAudio_Windows\obj\Debug\NoobAudio_Windows.FXEditor.resources
+C:\Users\pmcav\Source\Repos\TM Project\NoobAudio_Windows\obj\Debug\NoobAudio_Windows.FXPanels.FadeEffect.resources
+C:\Users\pmcav\Source\Repos\TM Project\NoobAudio_Windows\obj\Debug\NoobAudio_Windows.FXPanels.Flanger.resources
+C:\Users\pmcav\Source\Repos\TM Project\NoobAudio_Windows\obj\Debug\NoobAudio_Windows.FXPanels.Reverb.resources
+C:\Users\pmcav\Source\Repos\TM Project\NoobAudio_Windows\obj\Debug\NoobAudio_Windows.FXPanels.SpeedShift.resources
+C:\Users\pmcav\Source\Repos\TM Project\NoobAudio_Windows\obj\Debug\NoobAudio_Windows.FXPanels.VolumeChange.resources
+C:\Users\pmcav\Source\Repos\TM Project\NoobAudio_Windows\obj\Debug\NoobAudio_Windows.NoobAudio.resources
+C:\Users\pmcav\Source\Repos\TM Project\NoobAudio_Windows\obj\Debug\NoobAudio_Windows.Preview.resources
+C:\Users\pmcav\Source\Repos\TM Project\NoobAudio_Windows\obj\Debug\NoobAudio_Windows.Properties.Resources.resources
+C:\Users\pmcav\Source\Repos\TM Project\NoobAudio_Windows\obj\Debug\NoobAudio_Windows.Trimmer.resources
+C:\Users\pmcav\Source\Repos\TM Project\NoobAudio_Windows\obj\Debug\NoobAudio_Windows.csproj.GenerateResource.Cache
+C:\Users\pmcav\Source\Repos\TM Project\NoobAudio_Windows\obj\Debug\NoobAudio_Windows.exe
+C:\Users\pmcav\Source\Repos\TM Project\NoobAudio_Windows\obj\Debug\NoobAudio_Windows.pdb
+C:\Users\pmcav\Desktop\NoobAudio\NoobAudio\NoobAudio_Windows\bin\Debug\NoobAudio_Windows.exe.config
+C:\Users\pmcav\Desktop\NoobAudio\NoobAudio\NoobAudio_Windows\bin\Debug\NoobAudio_Windows.exe
+C:\Users\pmcav\Desktop\NoobAudio\NoobAudio\NoobAudio_Windows\bin\Debug\NoobAudio_Windows.pdb
+C:\Users\pmcav\Desktop\NoobAudio\NoobAudio\NoobAudio_Windows\bin\Debug\MathNet.Numerics.dll
+C:\Users\pmcav\Desktop\NoobAudio\NoobAudio\NoobAudio_Windows\bin\Debug\NoobAudioLib.dll
+C:\Users\pmcav\Desktop\NoobAudio\NoobAudio\NoobAudio_Windows\bin\Debug\NoobAudioLib.pdb
+C:\Users\pmcav\Desktop\NoobAudio\NoobAudio\NoobAudio_Windows\bin\Debug\MathNet.Numerics.xml
+C:\Users\pmcav\Desktop\NoobAudio\NoobAudio\NoobAudio_Windows\obj\Debug\NoobAudio_Windows.csprojResolveAssemblyReference.cache
+C:\Users\pmcav\Desktop\NoobAudio\NoobAudio\NoobAudio_Windows\obj\Debug\NoobAudio_Windows.About.resources
+C:\Users\pmcav\Desktop\NoobAudio\NoobAudio\NoobAudio_Windows\obj\Debug\NoobAudio_Windows.Docs.resources
+C:\Users\pmcav\Desktop\NoobAudio\NoobAudio\NoobAudio_Windows\obj\Debug\NoobAudio_Windows.editedFFTGraph.resources
+C:\Users\pmcav\Desktop\NoobAudio\NoobAudio\NoobAudio_Windows\obj\Debug\NoobAudio_Windows.FileDetails.resources
+C:\Users\pmcav\Desktop\NoobAudio\NoobAudio\NoobAudio_Windows\obj\Debug\NoobAudio_Windows.FXEditor.resources
+C:\Users\pmcav\Desktop\NoobAudio\NoobAudio\NoobAudio_Windows\obj\Debug\NoobAudio_Windows.FXPanels.FadeEffect.resources
+C:\Users\pmcav\Desktop\NoobAudio\NoobAudio\NoobAudio_Windows\obj\Debug\NoobAudio_Windows.FXPanels.Flanger.resources
+C:\Users\pmcav\Desktop\NoobAudio\NoobAudio\NoobAudio_Windows\obj\Debug\NoobAudio_Windows.FXPanels.Reverb.resources
+C:\Users\pmcav\Desktop\NoobAudio\NoobAudio\NoobAudio_Windows\obj\Debug\NoobAudio_Windows.FXPanels.SpeedShift.resources
+C:\Users\pmcav\Desktop\NoobAudio\NoobAudio\NoobAudio_Windows\obj\Debug\NoobAudio_Windows.FXPanels.VolumeChange.resources
+C:\Users\pmcav\Desktop\NoobAudio\NoobAudio\NoobAudio_Windows\obj\Debug\NoobAudio_Windows.NoobAudio.resources
+C:\Users\pmcav\Desktop\NoobAudio\NoobAudio\NoobAudio_Windows\obj\Debug\NoobAudio_Windows.Preview.resources
+C:\Users\pmcav\Desktop\NoobAudio\NoobAudio\NoobAudio_Windows\obj\Debug\NoobAudio_Windows.Properties.Resources.resources
+C:\Users\pmcav\Desktop\NoobAudio\NoobAudio\NoobAudio_Windows\obj\Debug\NoobAudio_Windows.Trimmer.resources
+C:\Users\pmcav\Desktop\NoobAudio\NoobAudio\NoobAudio_Windows\obj\Debug\NoobAudio_Windows.csproj.GenerateResource.Cache
+C:\Users\pmcav\Desktop\NoobAudio\NoobAudio\NoobAudio_Windows\obj\Debug\NoobAudio_Windows.exe
+C:\Users\pmcav\Desktop\NoobAudio\NoobAudio\NoobAudio_Windows\obj\Debug\NoobAudio_Windows.pdb
